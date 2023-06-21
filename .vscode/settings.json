@@ -1,0 +1,10 @@
+{
+    "java.project.outputPath": "WEB-INF\\classes",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "WEB-INF\\lib\\jakarta.servlet.jsp.jstl-3.0.1.jar",
+        "WEB-INF\\lib\\jakarta.servlet.jsp.jstl-api-3.0.0.jar",
+        "WEB-INF\\lib\\jsp-api.jar",
+        "WEB-INF\\lib\\servlet-api.jar"
+    ]
+}
